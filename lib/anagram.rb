@@ -13,5 +13,3 @@ def match(array)
     name.split('').sort == str.split('').sort }
   end
 end
-
-
