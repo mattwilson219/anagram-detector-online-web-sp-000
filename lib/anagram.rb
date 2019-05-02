@@ -15,5 +15,3 @@ def match(array)
 end
 
 end
-
-
